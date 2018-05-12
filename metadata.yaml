@@ -33,6 +33,8 @@ creator:
     gutenberg_agent_id: '1214'
     url: http://www.gutenberg.org/2009/agents/1214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25409#The-Story-Of-The-Duchess-Of-Cicogne-And-Of-Monsieur-De-Boulingrin1920
 gutenberg_issued: '2008-05-09'
 gutenberg_type: Text
 identifiers:
